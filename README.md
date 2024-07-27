@@ -10,11 +10,10 @@ npm init -y
 ```cmd
 npm install express
 ```
-
 -   Copy <i>index.js</i> into your file
-
--   Edit your request and result string/object
-    
--   Run the server (change PORT as desired) using node .
-    
+-   Edit your request and result string/object 
+-   Run the server (change PORT as desired)
+```cmd
+node .
+```
 -   Go to http://localhost:{PORT}/{request}
